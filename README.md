@@ -1,24 +1,99 @@
-👋🏽 Hey, I’m Cyril Bassey
-Full-Stack Developer | MERN Stack Enthusiast | Builder of Things That Make Life Easier
+# 👋 Hi, I'm Cyril Bassey  
+🧑🏽‍💻 Full-Stack Developer | MERN Stack Enthusiast | Builder of Things That Make Life Easier
 
-I’m the kind of person who sees a problem and instantly starts thinking of how to fix it. That’s how I got into coding—one small need led to one small app… and then I never stopped building. Now, I work mostly with the MERN stack (MongoDB, Express, React, Node.js), and I’m all about creating solutions that feel simple, useful, and human.
+---
 
-I enjoy taking big ideas and breaking them down into clean, working code. 
+## 🚀 Who am I?
 
-But I’m more than just code.
+I'm a passionate software developer with a relentless drive to build impactful solutions. Since I wrote my first line of code, I’ve been hooked.  
+Every bug I’ve squashed, every tool I’ve shipped—it’s all part of my mission to solve real-world problems through clean, human-centered technology.
 
-🌱 Outside the tech world...
-I play the piano. Music is my way of resetting—it keeps me grounded.
+---
 
-I read anything that stretches my thinking—from dev blogs to biographies to random life musings.
+## 🎓 Lifelong Learner | Self-Taught Developer
 
-I write too. If you’re into dev stories, raw thoughts, and life-in-tech reflections, check out my Medium page.
+My journey started with curiosity and a need to solve problems, and that curiosity still drives me today.  
+From humble beginnings to full-stack development with the **MERN stack**, I've kept my hands busy and my mind open.  
 
-I have a soft spot for the human brain, I dream of becoming a neurosurgeon someday 🧠 (still working on that one 👨🏽‍⚕️).
+Faith also plays a huge part in my journey—I’m a believer in Christ, and that shapes how I build, lead, and grow.
 
-I love meaningful conversations, shared laughs, and finding beauty in little things.
+---
 
-If you’re scrolling through my repos, you’ll probably find tools I built to scratch an itch, passion projects that kept me up at night, and some ideas I’m still shaping. I love learning, I love building, and I love connecting with people who are doing the same.
+## 🔧 What I Do
 
-Thanks for dropping by.
-Let’s connect, create, and keep things moving forward. 🚀
+I specialize in building scalable and meaningful web applications, from frontend experiences to backend logic.  
+Though my stack is rooted in **MongoDB, Express, React, and Node.js**, I’m constantly exploring new technologies and frameworks to expand my reach.
+
+I believe software should not only work—it should feel right to use.
+
+---
+
+## 💻 Current Tech Stack
+
+**🖥️ Languages:**  
+HTML | CSS | JavaScript | TypeScript | Python | C# | Rust | Go
+
+**📚 Frameworks & Libraries:**  
+React | Next.js | Angular  
+Node.js | Express  
+.NET (C#)  
+Actix Web | Rocket
+
+**🗃️ Databases & Storage:**  
+MongoDB | PostgreSQL | MySQL | Firebase Firestore
+
+**📦 ORMs:**  
+Mongoose | Sequelize | Prisma | SQLx
+
+**☁️ Cloud & Hosting:**  
+AWS | Vercel | Heroku | Azure DevOps
+
+**🔍 API Testing:**  
+Postman | ThunderClient
+
+**🔧 Tools & Editors:**  
+VSCode | Git | GitHub | Bash | .NET IDEs | Rust Toolchain
+
+**🎨 Design Systems:**  
+Tailwind CSS
+
+---
+
+## ✍️ Writing & Tutorials
+
+I occasionally share dev stories, tutorials, and life-in-tech reflections on:  
+[Medium](https://medium.com/@cyrilbassey), [Dev.to](https://dev.to), [Hashnode](https://hashnode.com), and my blog (coming soon).  
+A Telegram channel is also in the works—stay tuned!
+
+---
+
+## 💼 Hire Me
+
+Looking for someone who can turn ideas into well-architected, functional, and user-friendly applications?  
+Let’s talk. Portfolio launching soon.
+
+---
+
+## 🎤 Let's Connect
+
+I’m open to collaborations, tech talks, and community growth.  
+📧 Reach out via email: **cyrilbassey4@gmail.com**
+
+---
+
+## ⚡ Code is my passion!
+
+Your repository is more than just a folder of projects—it's your story.  
+My GitHub is where I bring ideas to life, one commit at a time.
+
+---
+
+## 🏢 Companies with My Fingerprints
+
+- Grace Community 
+- Isabibook, etc
+- (You could be the next...)
+
+---
+
+Thanks for stopping by. Let’s connect, build, and move things forward 🚀
