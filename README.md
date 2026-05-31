@@ -31,13 +31,13 @@ I believe software should not only work—it should feel right to use.
 ## 💻 Current Tech Stack
 
 **🖥️ Languages:**  
-HTML | CSS | JavaScript | TypeScript | Python | C# | Rust | Go
+HTML | CSS | JavaScript | TypeScript | 
 
 **📚 Frameworks & Libraries:**  
 React | Next.js | Angular  
 Node.js | Express  
 .NET (C#)  
-Actix Web | Rocket
+
 
 **🗃️ Databases & Storage:**  
 MongoDB | PostgreSQL | MySQL | Firebase Firestore
@@ -46,13 +46,13 @@ MongoDB | PostgreSQL | MySQL | Firebase Firestore
 Mongoose | Sequelize | Prisma | SQLx
 
 **☁️ Cloud & Hosting:**  
-AWS | Vercel | Heroku | Azure DevOps
+AWS | Vercel | Heroku | 
 
 **🔍 API Testing:**  
 Postman | ThunderClient
 
 **🔧 Tools & Editors:**  
-VSCode | Git | GitHub | Bash | .NET IDEs | Rust Toolchain
+VSCode | Git | GitHub | Bash | .NET IDEs |
 
 **🎨 Design Systems:**  
 Tailwind CSS
@@ -62,7 +62,7 @@ Tailwind CSS
 ## ✍️ Writing & Tutorials
 
 I occasionally share dev stories, tutorials, and life-in-tech reflections on:  
-[Medium](https://medium.com/@cyrilbassey), [Dev.to](https://dev.to), [Hashnode](https://hashnode.com), and my blog (coming soon).  
+[Medium](https://medium.com/@cyrilbassey), and my blog (coming soon).  
 A Telegram channel is also in the works—stay tuned!
 
 ---
